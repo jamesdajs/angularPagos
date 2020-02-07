@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "entrenador-personal-20e1f": {
+      "hosting": {
+        "firebaseHosting": [
+          "entrenador-personal-20e1f"
+        ]
+      }
+    }
+  }
+}
